@@ -1,5 +1,5 @@
 # calculator_in_python
 
-Run the given file after downloding in IDE (python).
+1.Run the given file after downloding in IDE (python).
+2.We have imported Tkinter module
 
-We have imported Tkinter module
